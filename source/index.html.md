@@ -1,5 +1,5 @@
 ---
-title: API Reference
+title: Yops API version 1.2
 
 language_tabs:
   - shell
